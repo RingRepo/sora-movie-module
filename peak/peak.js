@@ -6,7 +6,7 @@ async function searchResults(keyword) {
     try {
 
         const encodedKeyword = encodeURIComponent(keyword);
-        const searchUrl = `https://animekai.to/browser?keyword=clannad`;
+        const searchUrl = `https://animekai.to/browser?keyword=sonic x`;
         const responseText = await fetch(searchUrl);
 
         const results = [];
