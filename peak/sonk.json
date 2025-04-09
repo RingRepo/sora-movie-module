@@ -2,16 +2,16 @@
     "sourceName": "sonk",
     "iconUrl": "https://raw.githubusercontent.com/RingRepo/sora-movie-module/refs/heads/main/IMG_6869.jpeg",
     "author": {
-        "name": "ibro",
-        "icon": "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/profile.jpg"
+        "name": "veemu",
+        "icon": "https://images-ext-1.discordapp.net/external/ulBuJUQezR9ZfDzc2baa8iq6DIhxuh2oAnqWQhpeUVk/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/990213617284702249/cfec97ab4eeea48ef4d4a843e2a541f6.png"
     },
-    "version": "1.0.5",
-    "language": "English (Hard Sub)",
+    "version": "1.0.0",
+    "language": "English (Hard Dub)",
     "streamType": "HLS",
     "quality": "720p",
     "baseUrl": "https://animekai.to",
     "searchBaseUrl": "https://animekai.to/browser?keyword=%s",
-    "scriptUrl": "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/peak/peak.js",
+    "scriptUrl": "https://raw.githubusercontent.com/RingRepo/sora-movie-module/refs/heads/main/peak/sonk.js",
     "type": "anime",
     "asyncJS": true
 }
